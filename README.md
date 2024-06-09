@@ -3,4 +3,4 @@ Includes a revolutionary ping command
 
 To boot use "npm i" then go to .env and place your token, after that use "node index.js" and that's all, if you want to host it locally you can use the "boot.vbs"
 
-you need node.js to run this thing
+you need node.js and npm to run this thing
